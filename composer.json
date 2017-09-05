@@ -1,0 +1,19 @@
+{
+    "name": "dhorytskyi/technical-task",
+    "description": "Amadeus technical task",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    
+    "authors": [
+        {
+            "name": "Dmytro Horytskyi",
+            "email": "dmitriy.gorytskiy@gmail.com"
+        }
+    ],
+
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    }
+}
